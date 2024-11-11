@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
+.sec1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 5%;
+}
+.sec1 .image img{
+width: 40vw;
+max-width: 600px;
+}
+.sec1 .content{
+    max-width: 40vw;
+}
+.sec1 h2{
+   font-family: cedarville cursive;
+   font-size: 30px;
+   color: rgb(212, 155, 22);
+}
+.sec1 .content h1{
+    color: rgb(57, 33, 55);
+    font-size: 45px;
+    margin-bottom: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.sec1 .content p{
+    color: rgb(109, 97, 110);
+    font-size: 15px;
+    margin-bottom:30px ;
+    line-height: 25px;
+
+}
